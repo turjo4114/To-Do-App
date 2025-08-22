@@ -12,5 +12,5 @@ A simple and intuitive To-Do List application built to help you manage tasks eff
 
 
 💾 Persistent storage (data remains after refresh)
-<br>
+<br><br>
 Author - Sadid Ahmed Turjo
