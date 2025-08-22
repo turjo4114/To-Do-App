@@ -1,4 +1,16 @@
-# Python-Mini-Projects
-Python Mini Projects is a collection of small, beginner-to-intermediate level Python programs. Each project focuses on solving a specific problem, automating a task, or demonstrating a programming concept.
+# To-Do-App
+A simple and intuitive To-Do List application built to help you manage tasks efficiently. Add, edit, delete, and mark tasks as complete—all in a clean and user-friendly interface.
+<br>
+<br>
+🚀 Features<br>
+
+✅ Add new tasks<br>
+
+🗑 Delete tasks<br>
+
+✔️ Mark tasks as completed<br>
+
+
+💾 Persistent storage (data remains after refresh)
 <br>
 Author - Sadid Ahmed Turjo
